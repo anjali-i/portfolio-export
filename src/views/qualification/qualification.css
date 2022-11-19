@@ -1,0 +1,10 @@
+td,
+tr {
+  padding: 50px 50px 50px 50px;
+  font-size: 20px;
+  text-align: center;
+  border-left: 10px #575757 solid;
+  border-right: 10px #575757 solid;
+  border-top: 10px #575757 solid;
+  border-bottom: 10px #575757 solid;
+}
